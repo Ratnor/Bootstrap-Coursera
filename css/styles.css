@@ -43,3 +43,19 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+span{
+    padding: 0px 15px 0px 4px;
+}
+
+.navbar-brand{
+    text-align: center;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+
+}
